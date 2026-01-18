@@ -11,3 +11,5 @@ public class Appointment {
     private Time time;
     private String status;
 }
+
+
