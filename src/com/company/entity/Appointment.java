@@ -1,3 +1,4 @@
+
 package com.company.entity;
 
 import java.sql.Date;
